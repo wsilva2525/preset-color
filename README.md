@@ -1,2 +1,3 @@
-# preset-color
-preset color for grand ma2 light 
+--[[ this plugin is a pre preset color stored--]]
+--[[ my gols is all ways make my programming time better and pratical--]]
+
